@@ -11,7 +11,7 @@
 // 管理者パスワード
 // 必ず変更してください。
 // Administrator password, make sure to change it.
-$ADMIN_PASS = "adminpass";
+$ADMIN_PASS = "nkotb....sokxkdkkjsidoanfjenfjzixjajjdjdjsmamamasinthejckitchenwiththe(#(_(2&(2babyonfire";
 
 // 最大ログ数
 // 古いログから順番に消えます
@@ -32,7 +32,7 @@ define("ROOT_URL", "https://example.com/oekaki/");
 
 //掲示板のタイトル（<title>とTOP）
 //Board title (appears in <title> and site header)
-define("TITLE", "Paint BBS");
+define("TITLE", "oekaki");
 
 //「ホーム」へのリンク
 // 自分のサイトにお絵かき掲示板がある、という慣習からのものです。
@@ -62,19 +62,19 @@ define("USE_PAINTBBS_NEO", "1");
 
 // Use Shi Painter 
 // (1: Enabled, 0: Disabled)
-define("USE_SHI_PAINTER", "1");
+define("USE_SHI_PAINTER", "0");
 
 // Use ChickenPaint
 // (1: Enabled, 0: Disabled) 
-define("USE_CHICKENPAINT", "1");
+define("USE_CHICKENPAINT", "0");
 
 //Use Tegaki 
 // (1: Enabled, 0: Disabled) 
-define("USE_TEGAKI", "1");
+define("USE_TEGAKI", "0");
 
 //Use Klecks
 // (1: Enabled, 0: Disabled) 
-define("USE_KLECKS", "1");
+define("USE_KLECKS", "0");
 
 //Allow admins to use all apps regardless of settings
 // (1: Enabled, 0: Disabled) 
