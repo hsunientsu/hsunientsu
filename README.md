@@ -1,4 +1,4 @@
-### Hi there 👋
+### she/her noob thats working on a website (has no experience... at all)
 
 <!--
 **hsunientsu/hsunientsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
